@@ -1,0 +1,11 @@
+<div class="wrap">
+  <video id="video" width="320" controls="true">
+    <source src="//node1d.ytapi.com/videoplayback?expire=1648124694&ei=tg48Yu3XFp3j7QSCm4-IBQ&ip=2001%3A470%3A6c%3A3ef%3A%3A2d72&id=o-AJ9Y_M53fT1ZvRnHlEB5FF1l5G4nIF-dzaJvbXamrfRI&itag=247&source=youtube&requiressl=yes&mh=Fy&mm=31%2C26&mn=sn-axq7sn7s%2Csn-4g5ednld&ms=au%2Conr&mv=m&mvi=10&pl=57&initcwndbps=31250&vprv=1&mime=video%2Fwebm&gir=yes&clen=34807536&dur=190.800&lmt=1647591434941739&mt=1648102606&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&txp=5310224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgAILapeqMTOGOlUCRxNOl2X6NZJB_sKd64-rfn9esAU4CIHJek3yfBnQ5PGP8TmS1MbqgzXAnkOiWhCYPJS1TM5Yt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKMagrG-4tIfCpSYi8qNCPGBS0F65cvP2ttXc1wOZPkNAiAeBdW_RM8k3IMC6QmMwgYIK5yNPxzScJv-qmVC_RzWYg%3D%3D">
+    
+    Your browser does not support HTML5 video tag. Please download FireFox 3.5 or higher.
+  </video>
+  <br/>
+  <button id="cit" onclick="shoot()" class="button">Capture</button>
+  <br/>
+  <div id="output"></div>
+</div>
